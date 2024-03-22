@@ -1,0 +1,11 @@
+/* body {
+  margin: 0;
+  padding: 0;
+} */
+
+#root {
+  width: 100vw; /* 100% of viewport width */
+  display: flex; /* Use flexbox layout */
+  justify-content: center; /* Center horizontally */
+  
+}
